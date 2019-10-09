@@ -5,9 +5,6 @@
     "php",
     "nanolo"
   ],
-  "type": "library",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
   "require": {
     "php": ">=7.1.0"
   },
